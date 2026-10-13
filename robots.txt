@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-55d2bfb9fb.ipuswrg.cn/sitemap.xml
